@@ -51,11 +51,29 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
    ```bash
    cd classES6-DL
+   ```
 
+3. Instala las dependencias del proyecto:
 
+   ```bash
+   npm install
    ```
 
 3. Abre el proyecto en tu IDE preferido.
+
+Compilación de Babel
+
+1. En consola escribe:
+
+   ```bash
+   npx babel src --out-dir dist
+   ```
+
+2. Ejecuta el código compilado:
+   ```bash
+   node dist/main.js
+   ```
+
 
 ## 🤝 Contribución
 
