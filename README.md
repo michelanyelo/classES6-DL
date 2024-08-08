@@ -22,21 +22,20 @@ Este proyecto es parte del módulo "Programación avanzada en Javascript" del Bo
 
 ```plaintext
 .
-|-- assets
-|   |-- css
-|   |   `-- styles.css
-|   |-- img
-|   |   |-- allheroes.jpg
-|   |   |-- favicon.ico
-|   |   |-- sh1.jpg
-|   |   |-- sh2.jpg
-|   |   `-- yamcha.jpg
-|   `-- js
-|       |-- jQuery.superhero.js
-|       `-- script.js
-`-- index.html
-
-
+|-- LICENSE
+|-- README.md
+|-- babel.config.json
+|-- dist
+|   |-- cliente.js
+|   |-- impuesto.js
+|   `-- main.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+`-- src
+    |-- cliente.js
+    |-- impuesto.js
+    `-- main.js
 ```
 
 ## 🛠️ Instalación
