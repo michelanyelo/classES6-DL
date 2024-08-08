@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # 👋 Bienvenida/o al Proyecto Class en ES6 🦸‍♂️
+=======
+# 👋 Bienvenida/o al Proyecto Class en ES6
+>>>>>>> main
 
 ## 📝 Descripción
-Este proyecto es parte del módulo "Programación avanzada en Javascript" del BootCamp Desarrollo de aplicaciones Front End Trainee de DesafíoLatam. El objetivo fue validar los conocimientos de Programación Orientada a Objetosy ES6.
+Este proyecto es parte del módulo "Programación avanzada en Javascript" del BootCamp Desarrollo de aplicaciones Front End Trainee de DesafíoLatam. El objetivo fue validar los conocimientos de Programación Orientada a Objetos y ES6.
 
 ## 🌐 Tecnologías Utilizadas
 
