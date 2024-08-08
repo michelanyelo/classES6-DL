@@ -1,4 +1,4 @@
-# 👋 Bienvenida/o al Proyecto SuperHero API 🦸‍♂️
+# 👋 Bienvenida/o al Proyecto Class en ES6 🦸‍♂️
 
 ## 📝 Descripción
 Este proyecto es parte del módulo "Programación avanzada en Javascript" del BootCamp Desarrollo de aplicaciones Front End Trainee de DesafíoLatam. El objetivo fue validar los conocimientos de Programación Orientada a Objetosy ES6.
